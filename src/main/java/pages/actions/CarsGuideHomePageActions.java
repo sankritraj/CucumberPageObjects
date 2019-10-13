@@ -34,4 +34,9 @@ public void clickOnUserCarMenu()
 	carsGuideHomePageLocators.usedCarSearchLink.click();
 	
 }
+public void clickOnUserCarMenu1()
+{
+	carsGuideHomePageLocators.usedCarSearchLink.click();
+	
+}
 }
